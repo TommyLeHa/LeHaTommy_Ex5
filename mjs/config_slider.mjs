@@ -1,3 +1,4 @@
+//Configuration des images du slider
 export const config_slider = {
 
     largeur : '500px',

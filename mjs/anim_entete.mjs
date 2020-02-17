@@ -1,3 +1,5 @@
+//Animation de l'entête
+
 export class anim_entete {
 constructor(elmEntete) {
   this.elmEntete = elmEntete

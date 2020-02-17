@@ -1,3 +1,4 @@
+//Permet de gérer les fichiers du slider
 import {anim_entete} from "./anim_entete.mjs";
 import { Slider } from "./Slider.mjs";
 import { config_slider } from "./config_slider.mjs";

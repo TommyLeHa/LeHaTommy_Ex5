@@ -1,3 +1,4 @@
+//Création du slider
 export class Slider {
     constructor(elmMonSlider, config_slider){
         this.elmMonSlider = elmMonSlider;
