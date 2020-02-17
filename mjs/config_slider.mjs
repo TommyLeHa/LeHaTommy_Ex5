@@ -13,22 +13,22 @@ export const config_slider = {
         {
             titre : 'Blue Jackets',
             sousTitre : 'Columbus',
-            img : './img/02_BlueJackets.png'
+            img : './img/02_BlueJackets.png',
         },
         {
             titre : 'Predators',
             sousTitre : 'Nashville',
-            img : './img/03_Predators.png'
+            img : './img/03_Predators.png',
         },
         {
             titre : 'Bruins',
             sousTitre : 'Boston',
-            img : './img/04_Bruins.png'
+            img : './img/04_Bruins.png',
         },
         {
             titre : 'Jets',
             sousTitre : 'Winnipeg',
-            img : './img/05_Jets.png'
+            img : './img/05_Jets.png',
         }
         
 
