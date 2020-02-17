@@ -7,7 +7,7 @@ export const config_slider = {
         {
             titre : 'Canadiens',
             sousTitre : 'Montreal',
-            img : '../img/01_Canadiens.png'
+            img : '../img/01_Canadiens.png',
         },
         {
             titre : 'Blue Jackets',
